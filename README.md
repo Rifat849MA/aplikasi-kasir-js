@@ -1,20 +1,16 @@
 # Aplikasi Kasir JavaScript
 
-Proyek latihan struktur data dan algoritma menggunakan JavaScript.
+Proyek latihan JavaScript yang menerapkan:
 
-## Fitur
-
-- Undo / Redo menggunakan Stack
-- Antrian pesanan menggunakan Queue
-- Perhitungan total menggunakan Rekursi
-
-## Struktur Data yang Digunakan
-
-1. Stack
-2. Queue
-3. Rekursi
+- Stack (Undo/Redo)
+- Queue (Antrian Pesanan)
+- Rekursi
+- Simulasi Kasir
 
 ## Cara Menjalankan
 
-```bash
 node index.js
+
+## Author
+
+Rifat Mutawalli Ahmad
